@@ -1,4 +1,4 @@
-# AIFoodRecipe
+# Cooking Partner
 프로그램: 쿠킹 파트너 (Cooking Partner)
 설명: AI를 활용한 요리 레시피
 
